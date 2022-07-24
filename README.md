@@ -1,4 +1,4 @@
-# Introduction to Custom hooks - Counter
+# Introduction to Custom Hooks - Counter
 
 ## Based on Udemy's React Course - Maximilian Schwarzmüller
 
